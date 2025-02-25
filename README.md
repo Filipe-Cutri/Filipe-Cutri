@@ -23,12 +23,8 @@ Meu objetivo é construir uma carreira sólida no desenvolvimento de software, c
 🛠️ **Habilidades e Tecnologias**  
 - **Linguagens de Programação**:  
   ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java) 
-  ![PHP](https://img.shields.io/badge/-PHP-blueviolet?style=flat-square&logo=php) 
   ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) 
   ![C](https://img.shields.io/badge/-C-green?style=flat-square&logo=c) 
-  ![HTML](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5) 
-  ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 
 - **Bancos de Dados**:  
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql) 
@@ -81,13 +77,9 @@ My goal is to build a solid career in software development, with a focus on impa
 🛠️ **Skills and Technologies**  
 - **Programming Languages**:  
   ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java) 
-  ![PHP](https://img.shields.io/badge/-PHP-blueviolet?style=flat-square&logo=php) 
   ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) 
-  ![C](https://img.shields.io/badge/-C-green?style=flat-square&logo=c) 
-  ![HTML](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5) 
-  ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
-
+  ![C](https://img.shields.io/badge/-C-green?style=flat-square&logo=c)
+  
 - **Databases**:  
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql) 
   ![MySQL](https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=mysql)
