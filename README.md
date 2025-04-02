@@ -23,7 +23,6 @@ Meu objetivo é construir uma carreira sólida no desenvolvimento de software, c
 🛠️ **Habilidades e Tecnologias**  
 - **Linguagens de Programação**:  
   ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java) 
-  ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp) 
   ![C](https://img.shields.io/badge/-C-green?style=flat-square&logo=c) 
 
 - **Bancos de Dados**:  
@@ -77,7 +76,6 @@ My goal is to build a solid career in software development, with a focus on impa
 🛠️ **Skills and Technologies**  
 - **Programming Languages**:  
   ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java) 
-  ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp) 
   ![C](https://img.shields.io/badge/-C-green?style=flat-square&logo=c)
   
 - **Databases**:  
