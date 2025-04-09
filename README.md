@@ -82,9 +82,13 @@ My goal is to build a solid career in software development, with a focus on impa
   ![MySQL](https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=mysql)  
 
 - **Tools**:  
+  ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code)  
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-purple?style=flat-square&logo=intellij-idea)  
+  ![NetBeans](https://img.shields.io/badge/-NetBeans-lightgrey?style=flat-square&logo=apache-netbeans-ide)  
+  ![DBeaver](https://img.shields.io/badge/-DBeaver-blue?style=flat-square&logo=dbeaver)  
   ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)  
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
-  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)  
+  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)   
 
 <p align="center"> 
   "Those who are crazy enough to think they can change the world are the ones who do."  
