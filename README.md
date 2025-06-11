@@ -1,4 +1,4 @@
-<h1 align="center">Seja bem-vindo! 👋 Eu sou o Filipe Cutri</h1>
+<h1 align="center">Seja bem-vindo! </h1>
 
 <p align="center">
 🌐 <a href="#versao-em-portugues">Português</a> | <a href="#english-version">English</a>
