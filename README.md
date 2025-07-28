@@ -14,9 +14,6 @@ Estudante focado em desenvolvimento de software, buscando aplicar tecnologia par
 💼 **Experiência Profissional**  
 Atualmente estagiário em desenvolvimento de software em empresa de tecnologia, colaborando em soluções inovadoras e eficientes.
 
-🎯 **Objetivos**  
-Construir carreira sólida em desenvolvimento, com foco em inovação e projetos de impacto social.
-
 📧 **Contato**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/filipe-alberto-cutri-5a23a923b/)
 
@@ -58,9 +55,6 @@ Focused on software development, applying technology to solve real problems and 
 
 💼 **Professional Experience**  
 Software development intern at a tech company, contributing to innovative and efficient solutions.
-
-🎯 **Goals**  
-Build a solid career focused on innovation and impactful projects.
 
 📧 **Contact**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/filipe-alberto-cutri-5a23a923b/)
