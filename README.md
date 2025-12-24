@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Filipe Cutri! 👋</h1>
+<h1 align="center">Olá, eu sou o Filipe Cutri!</h1>
 
 <p align="center">
   <strong>Desenvolvedor Java | Bacharel em Sistemas de Informação</strong><br>
@@ -28,6 +28,13 @@ Estes repositórios representam minha evolução técnica e os fundamentos que d
 
 ---
 
+<h1 align="center">Hello, I am Filipe Cutri!</h1>
+
+<p align="center">
+  <strong>Java Developer | Bachelor's Degree in Information Systems</strong><br>
+  Specialist in scalable solutions using Java, Docker, and relational databases.
+</p>
+
 ## 🇺🇸 About Me
 
 I hold a bachelor's degree in **Information Systems** and have 2 years of practical experience developing desktop and backend applications using the Java ecosystem. I possess solid knowledge in data modeling with PostgreSQL, version control with Git, and environment orchestration with Docker. 
@@ -45,9 +52,16 @@ I hold a bachelor's degree in **Information Systems** and have 2 years of practi
 
 ## 📊 Estatísticas e Atividade
 
-<p align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Cutri&layout=compact&langs_count=7&theme=dracula"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipe-Cutri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipe-Cutri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Cutri&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Filipe-Cutri&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
