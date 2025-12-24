@@ -53,15 +53,9 @@ I hold a bachelor's degree in **Information Systems** and have 2 years of practi
 ## 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipe-Cutri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Filipe-Cutri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Cutri&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Filipe-Cutri&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Filipe-Cutri&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
 </p>
 
 ---
@@ -71,9 +65,6 @@ I hold a bachelor's degree in **Information Systems** and have 2 years of practi
 <p align="left">
 <a href="https://www.linkedin.com/in/filipe-alberto-cutri-5a23a923b/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-</a>
-<a href="mailto:seu-email@exemplo.com" target="_blank">
-<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
 
