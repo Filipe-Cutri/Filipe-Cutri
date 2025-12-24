@@ -1,80 +1,66 @@
-<h1 align="center">Seja bem-vindo!</h1>
+<h1 align="center">Olá, eu sou o Filipe Cutri! 👋</h1>
 
 <p align="center">
-🌐 <a href="#versao-em-portugues">Português</a> | <a href="#english-version">English</a>
+  <strong>Desenvolvedor Java | Bacharel em Sistemas de Informação</strong><br>
+  Especialista em soluções escaláveis com Java, Docker e bancos de dados relacionais.
+</p>
+
+<p align="center">
+🌐 <a href="#-sobre-mim">Português</a> | <a href="#-about-me">English</a>
 </p>
 
 ---
 
-## Versão em Português
+## 🇧🇷 Sobre Mim
 
-🎓 **Estudante de Sistemas de Informação**  
-Estudante focado em desenvolvimento de software, buscando aplicar tecnologia para resolver problemas reais e otimizar processos.
+Sou bacharel em **Sistemas de Informação** com 2 anos de experiência prática no desenvolvimento de aplicações Desktop e Backend utilizando o ecossistema Java. Possuo sólido conhecimento em modelagem de dados com PostgreSQL, versionamento com Git e orquestração de ambientes com Docker. 
 
-💼 **Experiência Profissional**  
-Atualmente estagiário em desenvolvimento de software em empresa de tecnologia, colaborando em soluções inovadoras e eficientes.
+### 📚 Portfólio de Aprendizado e Projetos
+Estes repositórios representam minha evolução técnica e os fundamentos que domino:
 
-📧 **Contato**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/filipe-alberto-cutri-5a23a923b/)
+* **[Java Backend Fundamentals](https://github.com/Filipe-Cutri/java-backend-fundamentals)** - Core do desenvolvimento backend e APIs.
+* **[JUnit 5 & Mockito](https://github.com/Filipe-Cutri/junit5-and-mockito-fundamentals)** - Foco em qualidade de software e testes unitários.
+* **[Java OOP Fundamentals](https://github.com/Filipe-Cutri/java-oop-fundamentals)** - Pilares da Orientação a Objetos aplicados.
+* **[Docker Fundamentals](https://github.com/Filipe-Cutri/docker-fundamentals)** - Containerização e infraestrutura como código.
+* **[Git & GitHub Fundamentals](https://github.com/Filipe-Cutri/git-and-github-fundamentals)** - Melhores práticas de versionamento.
+* **[TCC FHO](https://github.com/Filipe-Cutri/TCC_FHO)** - Projeto de conclusão de curso (Sistemas de Informação).
+* **[Beecrowd Solutions](https://github.com/Filipe-Cutri/Beecrowd)** - Resolução de algoritmos e lógica de programação.
 
-🛠️ **Habilidades Técnicas**  
-- **Linguagens:**  
-  ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  
-  ![C](https://img.shields.io/badge/-C-green?style=flat-square&logo=c)  
+---
 
-- **Bancos de Dados:**  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=mysql)  
+## 🇺🇸 About Me
 
-- **Ferramentas:**  
-  ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code)  
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-purple?style=flat-square&logo=intellij-idea)  
-  ![NetBeans](https://img.shields.io/badge/-NetBeans-lightgrey?style=flat-square&logo=apache-netbeans-ide)  
-  ![DBeaver](https://img.shields.io/badge/-DBeaver-blue?style=flat-square&logo=dbeaver)  
-  ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
-  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)  
+I hold a bachelor's degree in **Information Systems** and have 2 years of practical experience developing desktop and backend applications using the Java ecosystem. I possess solid knowledge in data modeling with PostgreSQL, version control with Git, and environment orchestration with Docker. 
 
-📍 **Localização:** São Paulo, Brasil
+### 🛠️ Technical Skills | Habilidades Técnicas
 
-## Linguagens mais usadas
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Java, C |
+| **Bancos de Dados** | PostgreSQL, MySQL |
+| **DevOps & Ferramentas** | Docker, Git, GitHub, DBeaver |
+| **IDEs** | IntelliJ IDEA, VS Code, NetBeans |
+
+---
+
+## 📊 Estatísticas e Atividade
 
 <p align="center">  
-<a href="https://github.com/Filipe-Cutri">  
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Cutri&layout=compact&langs_count=7&theme=dracula"/>  
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipe-Cutri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-</a>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Cutri&layout=compact&langs_count=7&theme=dracula"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipe-Cutri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
 </p>
 
 ---
 
-## English Version
+## 📫 Contato | Contact
 
-🎓 **Information Systems Student**  
-Focused on software development, applying technology to solve real problems and optimize processes.
+<p align="left">
+<a href="https://www.linkedin.com/in/filipe-alberto-cutri-5a23a923b/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+</a>
+<a href="mailto:seu-email@exemplo.com" target="_blank">
+<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
 
-💼 **Professional Experience**  
-Software development intern at a tech company, contributing to innovative and efficient solutions.
-
-📧 **Contact**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/filipe-alberto-cutri-5a23a923b/)
-
-🛠️ **Skills**  
-- **Languages:**  
-  ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  
-  ![C](https://img.shields.io/badge/-C-green?style=flat-square&logo=c)  
-
-- **Databases:**  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=mysql)  
-
-- **Tools:**  
-  ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code)  
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-purple?style=flat-square&logo=intellij-idea)  
-  ![NetBeans](https://img.shields.io/badge/-NetBeans-lightgrey?style=flat-square&logo=apache-netbeans-ide)  
-  ![DBeaver](https://img.shields.io/badge/-DBeaver-blue?style=flat-square&logo=dbeaver)  
-  ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
-  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)  
-
-📍 **Location:** São Paulo, Brazil
+<p align="center">📍 São Paulo, Brasil</p>
