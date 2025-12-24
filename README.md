@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-🌐 <a href="#-sobre-mim">Português</a> | <a href="#-hello-english">English</a>
+🌐 <a href="#-sobre-mim">Português</a> | <a href="#-english">English</a>
 </p>
 
 ---
@@ -27,7 +27,7 @@ Estes repositórios representam minha evolução técnica e os fundamentos que d
 * **[Beecrowd Solutions](https://github.com/Filipe-Cutri/Beecrowd)** - Resolução de algoritmos e lógica de programação.
 
 ---
-## 🇺🇸 Hello English
+## 🇺🇸 English
 <h1 align="center">Hello, I am Filipe Cutri!</h1>
 
 <p align="center">
