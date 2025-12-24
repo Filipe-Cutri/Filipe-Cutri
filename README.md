@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-🌐 <a href="#-sobre-mim">Português</a> | <a href="#-about-me">English</a>
+🌐 <a href="#-sobre-mim">Português</a> | <a href="#-hello-english">English</a>
 </p>
 
 ---
@@ -27,7 +27,7 @@ Estes repositórios representam minha evolução técnica e os fundamentos que d
 * **[Beecrowd Solutions](https://github.com/Filipe-Cutri/Beecrowd)** - Resolução de algoritmos e lógica de programação.
 
 ---
-
+## 🇺🇸 Hello English
 <h1 align="center">Hello, I am Filipe Cutri!</h1>
 
 <p align="center">
@@ -35,7 +35,7 @@ Estes repositórios representam minha evolução técnica e os fundamentos que d
   Specialist in scalable solutions using Java, Docker, and relational databases.
 </p>
 
-## 🇺🇸 About Me
+## About Me
 
 I hold a bachelor's degree in **Information Systems** and have 2 years of practical experience developing desktop and backend applications using the Java ecosystem. I possess solid knowledge in data modeling with PostgreSQL, version control with Git, and environment orchestration with Docker. 
 
