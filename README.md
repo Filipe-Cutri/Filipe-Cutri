@@ -63,15 +63,39 @@ I focus on building reliable, scalable, and maintainable systems.
 
 ## 📂 Portfólio de Projetos
 
-| Projeto                                                                                  | Descrição                       | Tecnologias      |
-| ---------------------------------------------------------------------------------------- | ------------------------------- | ---------------- |
-| [Java Backend Fundamentals](https://github.com/Filipe-Cutri/java-backend-fundamentals)   | APIs REST e fundamentos backend | Java, Spring     |
-| [JUnit 5 & Mockito](https://github.com/Filipe-Cutri/junit5-and-mockito-fundamentals)     | Testes e qualidade de software  | Java             |
-| [Java OOP Fundamentals](https://github.com/Filipe-Cutri/java-oop-fundamentals)           | Orientação a Objetos            | Java             |
-| [Docker Fundamentals](https://github.com/Filipe-Cutri/docker-fundamentals)               | Containerização                 | Docker           |
-| [Git & GitHub Fundamentals](https://github.com/Filipe-Cutri/git-and-github-fundamentals) | Versionamento                   | Git              |
-| [TCC — FHO](https://github.com/Filipe-Cutri/TCC_FHO)                                     | Projeto acadêmico               | Java, PostgreSQL |
-| [Beecrowd Solutions](https://github.com/Filipe-Cutri/Beecrowd)                           | Algoritmos e lógica             | Java, C          |
+### 🌐 Full Stack & Web Development
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [Full Stack Web Course](https://github.com/Filipe-Cutri/fullstack-web-course) | Aplicações web full stack modernas | React, Node.js, MongoDB, Firebase |
+
+---
+
+### ☕ Java Backend
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [Java Backend Fundamentals](https://github.com/Filipe-Cutri/java-backend-fundamentals) | APIs REST e fundamentos backend | Java, Spring |
+| [JUnit 5 & Mockito](https://github.com/Filipe-Cutri/junit5-and-mockito-fundamentals) | Testes e qualidade de software | Java |
+| [Java OOP Fundamentals](https://github.com/Filipe-Cutri/java-oop-fundamentals) | Orientação a Objetos | Java |
+| [TCC — FHO](https://github.com/Filipe-Cutri/TCC_FHO) | Projeto acadêmico | Java, PostgreSQL |
+
+---
+
+### ⚙️ DevOps & Tools
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [Docker Fundamentals](https://github.com/Filipe-Cutri/docker-fundamentals) | Containerização | Docker |
+| [Git & GitHub Fundamentals](https://github.com/Filipe-Cutri/git-and-github-fundamentals) | Versionamento | Git |
+
+---
+
+### 🧠 Algorithms & Logic
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [Beecrowd Solutions](https://github.com/Filipe-Cutri/Beecrowd) | Algoritmos e lógica | Java, C |
 
 ---
 
