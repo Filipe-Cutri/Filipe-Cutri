@@ -67,7 +67,7 @@ I focus on building reliable, scalable, and maintainable systems.
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
-| [Full Stack Web Course](https://github.com/Filipe-Cutri/fullstack-web-course) | Aplicações web full stack modernas | React, Node.js, MongoDB, Firebase |
+| [Full Stack Web Course](https://github.com/Filipe-Cutri/fullstack-web-course) | Aplicações web full stack | React, Node.js, MongoDB, Firebase |
 
 ---
 
