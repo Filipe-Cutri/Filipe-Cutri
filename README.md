@@ -19,7 +19,7 @@ Tenho sólido conhecimento em:
 * **Containerização** com Docker
 * **Versionamento** com Git e GitHub
 
-Busco constantemente evoluir tecnicamente e contribuir com soluções escaláveis e bem estruturadas.
+Busco constantemente evoluir tecnicamente e contribuir com soluções escaláveis e bem estruturadas
 
 ---
 
