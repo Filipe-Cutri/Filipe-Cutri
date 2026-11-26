@@ -192,7 +192,7 @@ STAT110x: Introduction to Probability e Data Science: Probability — **HarvardX
 | --- | --- |
 | [Music](https://github.com/Filipe-Cutri/Music) | Personal project |
 
-**Organization:** [Arco-Consulting](https://github.com/Arco-Consulting) — repositories from my consultancy
+**Organization:** [Arco-Consulting](https://github.com/orgs/Arco-Consulting/repositories) — repositories from my consultancy
 
 ---
 
